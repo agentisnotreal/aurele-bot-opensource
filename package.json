@@ -1,0 +1,19 @@
+{
+  "name": "aurele-bot-opensource",
+  "version": "1.0.0",
+  "description": "Official Bot for Aurele, open source edition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agentisnotreal/aurele-bot-opensource.git"
+  },
+  "author": "agentisnotreal#1090",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agentisnotreal/aurele-bot-opensource/issues"
+  },
+  "homepage": "https://github.com/agentisnotreal/aurele-bot-opensource#readme"
+}
